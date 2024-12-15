@@ -1,0 +1,14 @@
+  228  nano 320_run-awk-prioritize.sh
+  229  history > command_history.txt\n
+  230  nano command_history.txt
+  231  ./320_run-awk-prioritize.sh
+  232  sudo ./320_run-awk-prioritize.sh\n
+  233  awk -f Scripts/awk030_NonsynonymousVariants.awk input_file\n
+  234  awk --version\n
+  235  gawk --version
+  236  brew install gawk\n
+  237  ./320_run-gawk-prioritize.sh
+  238  ./320_run-awk-prioritize.sh
+  239  ls Scripts/\n
+  240  chmod +x Scripts/awk010_ToMMo35KJPNv2.awk\nchmod +x Scripts/awk020_TrancateVariants.awk\nchmod +x Scripts/awk030_NonsynonymousVariants.awk\nchmod +x Scripts/awk040_Homozygous.awk\nchmod +x Scripts/awk050_Heterozygous.awk\n
+  241  ./320_run-awk-prioritize.sh
